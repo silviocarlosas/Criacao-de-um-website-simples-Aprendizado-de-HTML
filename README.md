@@ -8,8 +8,10 @@ Este projeto foi desenvolvido com base em videoaulas do Youtube e foi publicado 
 
 ## **Tecnologias utilizadas**
 
-- HTML5
-- Visual Studio Code
+- HTML5;
+- Visual Studio Code;
+- Microsoft Paint;
+- Adobe Illustrator.
 
 ## **O que aprendi**
 
