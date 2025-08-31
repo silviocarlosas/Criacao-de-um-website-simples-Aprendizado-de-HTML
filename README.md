@@ -4,7 +4,7 @@
 
 Desenvolvimento de um site simples com apenas 03 páginas para aprendizado de conceitos básicos em HTML. A próxima etapa será o aprimoramento em CSS e, futuramente, JavaScript para a página de contato.
 
-Este projeto foi desenvolvido com base em videoaulas e foi publicado temporariamente em um servidor gratuito que já expirou. Seu enderço era: http://s3dev.atwebpages.com/index.html
+Este projeto foi desenvolvido com base em videoaulas do Youtube e foi publicado temporariamente em um servidor gratuito que já expirou. Seu enderço era: http://s3dev.atwebpages.com/index.html
 
 ## **Tecnologias utilizadas**
 
